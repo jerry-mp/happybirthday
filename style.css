@@ -6,8 +6,8 @@ body {
     background-image: url("images/parrot_fish.png");
     background-repeat: no-repeat;
     background-position: center;
-    transform: translateX(50%);
-    transform: translateY(50%);
+    /* transform: translateX(50%); */
+    transform: translateY(-50%);
 }
 
 h1 {
